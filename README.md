@@ -81,6 +81,6 @@ Registrar de manera organizada el progreso académico alcanzado durante la asign
 
 - [📘 Unidad 1](./Unidad1/)  
 - [📗 Unidad 2](./Unidad2/)
-- [📗 Unidad 2](./Unidad3/)
+- [📗 Unidad 3](./Unidad3/)
 - [📚 Bibliografía](./Bibliografia.md)## 
 
