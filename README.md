@@ -79,6 +79,11 @@ Registrar de manera organizada el progreso académico alcanzado durante la asign
 
 ## 📑 Índice
 
+- [📘 Unidad 1](./Unidad1/)  
+- [📗 Unidad 2](./Unidad2/)
+- [📙 Material Complementario](./MaterialComplementario/)
+- [📚 Bibliografía](./Bibliografia.md)## 📑 Índice
+
 - [📘 Unidad 1](Unidad1.md)
 - [📗 Unidad 2](Unidad2.md)
 - [📙 Material Complementario](Material.md)
